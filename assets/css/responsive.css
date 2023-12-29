@@ -1,0 +1,608 @@
+@media(max-width: 1358px) and (min-width: 1024px) {
+    .main-header ul li a {
+        text-decoration: none;
+        font-weight: 400;
+        text-transform: uppercase;
+        font-family: 'Bebas Neue', sans-serif;
+        margin: 17px;
+        color: #ffffff;
+    }
+
+    .main-banner .carousel-inner .carousel-item .carousel-caption {
+        text-align: left;
+        margin-left: -90px;
+    }
+
+    .main-banner .carousel-inner .carousel-item .caption-container {
+        position: relative;
+        top: -100px;
+    }
+
+    .main-banner .carousel-inner .carousel-item .carousel-caption h5 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 36px;
+    }
+
+    .main-banner .carousel-inner .carousel-item .carousel-caption p {
+        font-size: 24px;
+    }
+
+    .main-place .place .view-tour {
+        margin: 15px 0 15px 10px;
+    }
+
+    .looking-for {
+        margin-top: 0px;
+        margin-bottom: 80px;
+    }
+
+    .leafUpDiv {
+        position: absolute;
+        bottom: 330px;
+        right: 160px;
+        z-index: -1;
+    }
+
+    .card-img {
+        background: linear-gradient(90deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        height: 65px;
+        border-radius: 50px;
+        width: 65px;
+        position: relative;
+        left: 30%;
+        right: 0;
+    }
+
+    .main-exclusive-tour .title h5 {
+        font-size: 22px;
+        font-weight: 800;
+        font-family: 'Karla', sans-serif;
+    }
+
+    .main-exclusive-tour .title p {
+        font-family: 'Karla', sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+    }
+
+    .main-exclusive-tour .title {
+        font-family: 'Karla', sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+    }
+
+    .main-exclusive-tour .title .exclusive-content ul li {
+        list-style: none;
+        font-size: 12px;
+        padding: 5px;
+    }
+
+    .main-exclusive-tour .title {
+        padding: 80px 0 0 45px;
+    }
+
+    .main-package {
+        background-image: url("../images/package/young-woman-visiting-pyramids-egypt-copy.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+        padding: 110px 0;
+    }
+
+    .main-client-says {
+        background-image: url(../images/client-says/mosque-with-moon-background.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* background-position: right; */
+        width: 100%;
+        margin-top: -82px;
+        position: relative;
+    }
+
+    .main-client-says .client-says-card .client-card {
+        background: #d4e6f5;
+        padding: 15px;
+        border-radius: 10px;
+        margin: 0 20px;
+    }
+
+    .main-footer .input-fonta {
+        position: absolute;
+        margin-left: 250px;
+        padding: 12px;
+        margin-top: 5px;
+        border-radius: 5px;
+        background: radial-gradient(circle, rgba(73,105,208,1) 0%, rgba(1,11,32,1) 100%);
+    }
+
+    .main-footer .text-area-fonta {
+        position: absolute;
+        margin-left: 890px;
+        background: radial-gradient(circle, rgba(73,105,208,1) 0%, rgba(1,11,32,1) 100%);
+        padding: 12px;
+        margin-top: 5px;
+        border-radius: 5px;
+    }
+
+}
+
+@media(max-width: 1023px) and (min-width: 992px) {
+
+    .main-header ul li a {
+        text-decoration: none;
+        font-weight: 200;
+        font-size: 24px;
+        text-transform: uppercase;
+        font-family: 'Bebas Neue', sans-serif;
+        margin: 18px;
+        color: #ffffff;
+    }
+
+    .main-banner .carousel-inner .carousel-item .caption-container {
+        position: relative;
+        top: -100px;
+    }
+
+    .main-banner .carousel-inner .carousel-item .carousel-caption h5 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 36px;
+    }
+
+    .main-banner .carousel-inner .carousel-item .carousel-caption p {
+        font-size: 22px;
+    }
+
+    .main-banner .carousel-inner .carousel-item .carousel-caption a {
+        background: linear-gradient(180deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        padding: 10px;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 10px;
+        position: absolute;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 14px;
+    }
+
+    .main-banner .carousel-inner .carousel-item .carousel-caption a i {
+        border: 1px solid;
+        border-radius: 20px;
+        padding: 4px;
+        font-size: 12px;
+        width: 20px;
+        height: 20px;
+        margin-left: 5px;
+    }
+
+    .owl-item.active {
+        width: 200px !important;
+    }
+
+    .main-package .package-content {
+        margin-right: 60px;
+        text-align: right;
+        position: relative;
+    }
+
+    .package-content h5 {
+        text-transform: uppercase;
+        color: #ffffff;
+        font-size: 34px;
+        font-family: 'Karla', sans-serif;
+    }
+
+    .package-content p {
+        font-size: 14px;
+        color: #ffffff;
+        font-family: 'Karla', sans-serif;
+    }
+
+    .main-package .package-content a {
+        background: linear-gradient(180deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        padding: 12px;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 10px;
+        text-transform: uppercase;
+    }
+
+    .main-package .package-content a i {
+        border: 1px solid;
+        border-radius: 50px;
+        padding: 4px;
+        width: 25px;
+        height: 25px;
+    }
+
+    .card-img {
+        background: linear-gradient(90deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        height: 65px;
+        border-radius: 50px;
+        width: 65px;
+        position: relative;
+        left: 32%;
+        right: 0;
+    }
+
+    .looking-for .looking-for-head h5 {
+        font-family: 'Karla', sans-serif;
+        font-weight: 800;
+        font-size: 40px;
+    }
+
+    .looking-for .looking-for-head p {
+        font-size: 16px;
+    }
+
+    .leafUpDiv {
+        position: absolute;
+        bottom: 245px;
+        right: 160px;
+        z-index: -1;
+    }
+
+    .looking-for {
+        margin-top: 0px;
+        margin-bottom: 80px;
+    }
+
+    /* .main-place .owl-carousel .owl-stage-outer .owl-item {
+        width: 200px !important;
+        margin-right: 15px;
+    } */
+    .looking-for .card p {
+        font-size: 12px;
+    }
+
+    .main-exclusive-tour {
+        position: relative;
+        background-image: url(../images/exclusive-tour/Layer-1.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right;
+        width: 100%;
+        padding: 0 0 0;
+    }
+
+    .main-exclusive-tour .title a {
+        background: linear-gradient(180deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        padding: 5px 10px 5px 10px;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 10px;
+        font-size: 14px;
+    }
+
+    .main-exclusive-tour .title a i {
+        border: 1px solid;
+        border-radius: 20px;
+        padding: 3px;
+        font-size: 12px;
+        width: 20px;
+        height: 20px;
+    }
+
+    .main-exclusive-tour .title h5 {
+        font-size: 24px;
+        font-weight: 800;
+        font-family: 'Karla', sans-serif;
+    }
+
+    .main-exclusive-tour .title p {
+        font-family: 'Karla', sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+    }
+
+    .main-exclusive-tour .title {
+        font-family: 'Karla', sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .main-exclusive-tour .title .exclusive-content ul li {
+        list-style: none;
+        font-size: 12px;
+        padding: 5px;
+    }
+
+    .main-client-says .client-says-card {
+        padding: 145px;
+    }
+
+    .main-footer .input-fonta {
+        position: absolute;
+        margin-left: 250px;
+        padding: 12px;
+        margin-top: 5px;
+        border-radius: 5px;
+        background: radial-gradient(circle, rgba(73,105,208,1) 0%, rgba(1,11,32,1) 100%);
+    }
+
+    .main-footer .text-area-fonta {
+        position: absolute;
+        margin-left: 890px;
+        background: radial-gradient(circle, rgba(73,105,208,1) 0%, rgba(1,11,32,1) 100%);
+        padding: 12px;
+        margin-top: 5px;
+        border-radius: 5px;
+    }
+
+}
+
+@media(max-width: 991px) and (min-width: 768px) {
+
+    h2 {
+        font-size: 30px;
+        font-weight: 800;
+        font-family: 'Karla', sans-serif;
+    }
+    .header-top-area {
+        display: none;
+    }
+    .top-header-area .madina {
+        position: relative;
+        top: 0;
+    }
+    .madina img {
+        width: 100%;
+    }
+    .nav-mobile-upper .mob-logo img {
+        width: 100%;
+        height: 35px;
+    }
+    .nav-mobile-upper .ham-img img {
+        width: 20px;
+        height: 20px;
+    }
+    .main-banner {
+        position: relative;
+        margin-top: 94px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption {
+        text-align: left;
+        margin-top: -50px;
+        position: relative;
+        margin-left: 0;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption h5 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 22px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption p {
+        font-size: 14px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption a {
+        background: linear-gradient(180deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        padding: 8px;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 10px;
+        position: absolute;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 10px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption a i {
+        border: 1px solid;
+        border-radius: 20px;
+        padding: 4px;
+        font-size: 6px;
+        width: 15px;
+        height: 15px;
+        margin-left: 5px;
+    }
+    .looking-for {
+        position: relative;
+        margin-top: -115px;
+        margin-bottom: 60px;
+    }
+    .looking-for .looking-for-head p {
+        font-size: 14px;
+        padding: 0 20px 0 20px;
+    }
+    .looking-for::before {
+        display: none;
+    }
+    .looking-for::after {
+        display: none;
+    }
+    .card-img {
+        background: linear-gradient(90deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        height: 65px;
+        border-radius: 50px;
+        width: 65px;
+        position: relative;
+        left: 40%;
+        right: 0;
+    }
+    .package-content h2 {
+        text-transform: uppercase;
+        color: #ffffff;
+        font-family: 'Karla', sans-serif;
+        font-size: 30px;
+    }
+    .package-content p {
+        color: #ffffff;
+        font-family: 'Karla', sans-serif;
+        font-size: 14px;
+    }
+    .main-place .place .place-image img {
+        height: 250px;
+        width: 100%;
+        border-radius: 10px;
+    }
+    .main-client-says .owl-dots {
+        position: absolute;
+        display: flex;
+        gap: 10px;
+        margin-left: 38%;
+    }
+    .main-exclusive-tour {
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right;
+        width: 100%;
+        padding: 0 0 114px;
+        background-image: none;
+    }
+    .main-footer .footer-address {
+        position: relative;
+        display: inline-block;
+    }
+    .main-footer .footer-address .footer-phone {
+        position: relative;
+        display: flex;
+        padding-top: 50px;
+        margin-left: 0;
+        padding-bottom: 0;
+    } 
+    .main-footer .footer-down {
+        text-align: center;
+        position: relative;
+        display: inline-block;
+    }
+    .main-footer .footer-down p {
+        margin-bottom: 0;
+    }
+}
+
+
+@media(max-width: 768px) {
+    h2 {
+        font-size: 30px;
+        font-weight: 800;
+        font-family: 'Karla', sans-serif;
+    }
+    .header-top-area {
+        display: none;
+    }
+    .top-header-area .madina {
+        position: relative;
+        top: 0;
+    }
+    .madina img {
+        width: 100%;
+    }
+    .nav-mobile-upper .mob-logo img {
+        width: 100%;
+        height: 35px;
+    }
+    .nav-mobile-upper .ham-img img {
+        width: 20px;
+        height: 20px;
+    }
+    .main-banner {
+        position: relative;
+        margin-top: 94px;
+        margin-bottom: -100px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption {
+        text-align: left;
+        margin-top: -50px;
+        position: relative;
+        margin-left: 0;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption h5 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 22px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption p {
+        font-size: 14px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption a {
+        background: linear-gradient(180deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        padding: 8px;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 10px;
+        position: absolute;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 10px;
+    }
+    .main-banner .carousel-inner .carousel-item .carousel-caption a i {
+        border: 1px solid;
+        border-radius: 20px;
+        padding: 4px;
+        font-size: 6px;
+        width: 15px;
+        height: 15px;
+        margin-left: 5px;
+    }
+    .looking-for {
+        position: relative;
+        margin-bottom: 60px;
+    }
+    .looking-for .looking-for-head p {
+        font-size: 14px;
+        padding: 0 20px 0 20px;
+    }
+    .looking-for::before {
+        display: none;
+    }
+    .looking-for::after {
+        display: none;
+    }
+    .card-img {
+        background: linear-gradient(90deg, rgba(217,171,90,1) 0%, rgba(136,84,17,1) 35%);
+        height: 65px;
+        border-radius: 50px;
+        width: 65px;
+        position: relative;
+        left: 40%;
+        right: 0;
+    }
+    .package-content h2 {
+        text-transform: uppercase;
+        color: #ffffff;
+        font-family: 'Karla', sans-serif;
+        font-size: 30px;
+    }
+    .package-content p {
+        color: #ffffff;
+        font-family: 'Karla', sans-serif;
+        font-size: 14px;
+    }
+    .main-place .place .place-image img {
+        height: 250px;
+        width: 100%;
+        border-radius: 10px;
+    }
+    .main-client-says .owl-dots {
+        position: absolute;
+        display: flex;
+        gap: 10px;
+        margin-left: 38%;
+    }
+    .main-exclusive-tour {
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right;
+        width: 100%;
+        padding: 0 0 114px;
+        background-image: none;
+    }
+    .main-footer .footer-address {
+        position: relative;
+        display: inline-block;
+    }
+    .main-footer .footer-address .footer-phone {
+        position: relative;
+        display: flex;
+        padding-top: 50px;
+        margin-left: 0;
+        padding-bottom: 0;
+    } 
+    .main-footer .footer-down {
+        text-align: center;
+        position: relative;
+        display: inline-block;
+    }
+    .main-footer .footer-down p {
+        margin-bottom: 0;
+    }
+}
